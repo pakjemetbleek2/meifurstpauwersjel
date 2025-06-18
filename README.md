@@ -10,4 +10,7 @@ Eg elski bara **powershell**.
 2. Klaksvík
 3. Gjógv
 
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+
 ### 182439
