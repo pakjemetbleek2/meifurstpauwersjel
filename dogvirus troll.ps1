@@ -7,3 +7,9 @@ for ($teller = 0; $teller -lt 3; $teller++) {
     $url = $json.message
     Start-Process "msedge.exe" -ArgumentList "--new-window", "$url"
 }
+
+#doeiyiguyfutfuftufuiiogogyi
+
+git add .
+git commit -m "{test}"
+git push
